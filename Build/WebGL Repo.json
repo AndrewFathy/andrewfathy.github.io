@@ -1,7 +1,7 @@
 {
-"companyName": "CAT",
-"productName": "Legion Showroom Demo",
-"productVersion": "0.1",
+"companyName": "DefaultCompany",
+"productName": "Bowling Game",
+"productVersion": "1.0",
 "dataUrl": "WebGL Repo.data.unityweb",
 "wasmCodeUrl": "WebGL Repo.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL Repo.wasm.framework.unityweb",
@@ -9,8 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.3.7f1"
+"unityVersion": "2019.4.8f1"
 }
