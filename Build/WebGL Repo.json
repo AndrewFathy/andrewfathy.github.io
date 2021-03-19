@@ -1,7 +1,7 @@
 {
-"companyName": "CAT",
-"productName": "Game Demo",
-"productVersion": "0.1",
+"companyName": "DefaultCompany",
+"productName": "FORXIGA-VAX-LEBANON",
+"productVersion": "1.0",
 "dataUrl": "WebGL Repo.data.unityweb",
 "wasmCodeUrl": "WebGL Repo.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL Repo.wasm.framework.unityweb",
